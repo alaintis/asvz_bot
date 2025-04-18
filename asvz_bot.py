@@ -9,8 +9,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 # ---- CONFIG ----
-ETHZ_USERNAME = "atissier"
-ETHZ_PASSWORD = "ZUtisier67Zu4R"
+ETHZ_USERNAME = "username"
+ETHZ_PASSWORD = "password"
 
 
 #Hardcoded for testin
